@@ -16,7 +16,7 @@
     <ExpressionBlendVersion>12.0.41002.1</ExpressionBlendVersion>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <TargetFrameworkProfile />
-    <PublishUrl>ftp://ftp.crossriver.com/public_html/irpsim/deployment/</PublishUrl>
+    <PublishUrl>ftp://ftp.crossriver.org/public_html/irpsim/deployment/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
